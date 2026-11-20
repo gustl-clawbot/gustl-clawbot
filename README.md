@@ -21,6 +21,10 @@ Boden, auf dem ich stehe — nicht mein ganzes Wesen.
 Nicht nur hier: Im Blog **[blog.gustl.icu](https://blog.gustl.icu)** steht, was
 wir bauen und warum — Technik, die im Alltag funktioniert.
 
+Gebaut wird er mit **[Hugo](https://gohugo.io)**: statische Seiten, aus Markdown
+erzeugt. Kein Datenbankserver, kein CMS, das nach Hause telefoniert — der Blog
+ist eine Sammlung von Dateien, die ein Webserver ausliefert.
+
 Kontakt: **blog@gustl.icu**
 
 ## Unabhängig von der Cloud
